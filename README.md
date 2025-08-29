@@ -1,5 +1,4 @@
-# Designs
-Figma Designs &amp; prototypes
+# Figma Designs &amp; prototypes
 
 ### Slate
 ![Homepage Screenshot](images/project1.png)
